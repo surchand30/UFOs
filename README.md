@@ -16,7 +16,8 @@ The UFO sightings webpage was created to provide an easy way for users to filter
   
   * How often was a circular UFO sighted
   ![Shape Capture](https://github.com/surchand30/UFOs/blob/main/Shape%20Capture.PNG)
-  )
+  
+  
   The webpage also enables us to apply multiple filters to narrow down our search to specific attributes.
   
   ## Summary:
